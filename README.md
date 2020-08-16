@@ -1,0 +1,2 @@
+# insultGenerator
+first python project
