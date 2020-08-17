@@ -71,4 +71,4 @@ list3 = ["wine-drinker",
   "alter-boy",
   "chud"]
 
-insult=("you "+list1[random.randint(0,18)]+" "+list2[random.randint(0,18)]+" "+list3[random.randint(0,26)])
+insult=("you "+list1[random.randint(0,18)]+", "+list2[random.randint(0,18)]+", "+list3[random.randint(0,26)])
