@@ -1,5 +1,3 @@
-import random
-
 list1 = ["stupid",
   "shitfaced",
   "inbred",
@@ -70,5 +68,3 @@ list3 = ["wine-drinker",
   "chad",
   "alter-boy",
   "chud"]
-
-insult=("you "+list1[random.randint(0,18)]+", "+list2[random.randint(0,18)]+", "+list3[random.randint(0,26)])
