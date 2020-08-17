@@ -11,5 +11,6 @@
     "tab.activeBorder": "#1a1a1a",
     "titleBar.activeBackground": "#000000",
     "titleBar.inactiveBackground": "#00000099"
-  }
+  },
+  "python.pythonPath": "/usr/bin/python3"
 }

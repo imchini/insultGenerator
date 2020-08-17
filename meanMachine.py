@@ -8,7 +8,7 @@ list1 = ["stupid",
   "horse-riding",
   "unbelievable",
   "mother-of-a",
-  "whitew-claw-drinking",
+  "whiteclaw-drinking",
   "cousin-fucking",
   "sideburn-having",
   "beak-having",
@@ -30,7 +30,7 @@ list2 = ["disrespecful",
   "chodemouthed",
   "fartfaced",
   "nutmouthed",
-  "cousin-fucking",
+  "sister-fucking",
   "child-fucking",
   "butteraced",
   "red-necked",
@@ -71,4 +71,4 @@ list3 = ["wine-drinker",
   "alter-boy",
   "chud"]
 
-print("you "+list1[random.randint(0,18)]+" "+list2[random.randint(0,18)]+" "+list3[random.randint(0,26)])
+insult=("you "+list1[random.randint(0,18)]+" "+list2[random.randint(0,18)]+" "+list3[random.randint(0,26)])
