@@ -10,8 +10,15 @@ def showText():
 
 root=Tk()
 root.title("Get Insulted!")
+root.geometry("400x400")
 root.columnconfigure(0, weight=1)
 root.rowconfigure(0, weight=1)
-ttk.Button(root, text="Generate Insult", command=showText()).grid()
-root.mainloop()
+ttk.Button(root,text="Generate Insult",
+                command=showText).grid()
+ttk.Button(root,
+                text="Quit",
+                command=root.destroy).grid()
 
+"""ttk.Button(root, text=insult).grid()"""
+
+root.mainloop()
